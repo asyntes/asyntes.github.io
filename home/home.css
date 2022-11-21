@@ -6,18 +6,14 @@
 body {
     background-color: black;
     text-align: center;
-}
-
-.container {
-    width: 100%;
-    height: 400px;
-    display: table;
-    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
 }
 
 .logo {
     color: white;
     font-family: 'Scribish';
-    display: table-cell;
     font-size: 4vw;
 }
