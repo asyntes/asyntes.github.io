@@ -9,6 +9,8 @@ body {
 }
 
 .container {
+    width: 100%;
+    height: 400px;
     display: table;
     vertical-align: middle;
 }
