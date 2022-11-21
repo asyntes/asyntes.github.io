@@ -20,3 +20,8 @@ body {
     font-family: 'Montserrat-Medium';
     font-size: 4vw;
 }
+
+model-viewer {
+    width: 400px;
+    height: 400px;
+}
